@@ -1,0 +1,21 @@
+@import url('./Styles/base.css');
+@import url('./Styles/variables.css');
+@import url('./Modules/Header/header.css');
+@import url('./Modules/Footer/footer.css');
+
+/*  Pages   */
+
+/*  Frontpage   */
+@import url('./Styles/index.css');
+
+/*  Brands  */
+@import url('./Modules/Brands/brands.css');
+
+/*  Shop categories */
+@import url('./Modules/ShopFront/shopfront.css');
+
+/*  Products    */
+@import url('./Modules/Products/products.css');
+
+/*  Single product  */
+@import url('./Modules/Product/product.css');

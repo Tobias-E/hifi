@@ -1,0 +1,328 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic",
+            "category": "CD player",
+            "producer": "Creek",
+            "price": "£699.00",
+            "img": "cd_afspillere/creek_classic_cd.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 2,
+            "name": "Destiny",
+            "category": "CD player",
+            "producer": "Creek",
+            "price": "£899.00",
+            "img": "cd_afspillere/creek_Destiny_CD.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 3,
+            "name": "Evo",
+            "category": "CD player",
+            "producer": "Creek",
+            "price": "£1299.00",
+            "img": "cd_afspillere/creek_evo_cd.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 4,
+            "name": "2010S",
+            "category": "CD player",
+            "producer": "EXP",
+            "price": "£1699.00",
+            "img": "cd_afspillere/Exp_2010S_CD.gif",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 5,
+            "name": "Classic",
+            "category": "DVD player",
+            "producer": "Creek",
+            "price": "£99.00",
+            "img": "dvdafspillere/creek_classic.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 6,
+            "name": "2010S",
+            "category": "DVD player",
+            "producer": "Exposure",
+            "price": "£199.00",
+            "img": "dvdafspillere/exposure_2010S.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 7,
+            "name": "D200",
+            "category": "DVD player",
+            "producer": "Parasound",
+            "price": "£299.00",
+            "img": "dvdafspillere/parasound_d200.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 8,
+            "name": "Halod3",
+            "category": "DVD player",
+            "producer": "Parasound",
+            "price": "£499.00",
+            "img": "dvdafspillere/parasound_halod3.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 9,
+            "name": "Mahi",
+            "category": "Power amplifier",
+            "producer": "Manley",
+            "price": "£699.00",
+            "img": "effektforstaerkere/manley_mahi.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 10,
+            "name": "Neo classic 300b",
+            "category": "Power amplifier",
+            "producer": "Manley",
+            "price": "£899.00",
+            "img": "effektforstaerkere/manley_neoclassic300b.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 11,
+            "name": "Snapper",
+            "category": "Power amplifier",
+            "producer": "Manley",
+            "price": "£999.00",
+            "img": "effektforstaerkere/manley_snapper.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 12,
+            "name": "Haloa 23",
+            "category": "Power amplifier",
+            "producer": "Parasound",
+            "price": "£1099.00",
+            "img": "effektforstaerkere/parasound_haloa23.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 13,
+            "name": "OBH 22",
+            "category": "Preamps",
+            "producer": "Creek",
+            "price": "£1199.00",
+            "img": "forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 14,
+            "name": "Prebox",
+            "category": "Preamps",
+            "producer": "Project",
+            "price": "£1299.00",
+            "img": "forforstaerkere/Project_prebox.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 15,
+            "name": "Classic 7100",
+            "category": "Preamps",
+            "producer": "Parasound",
+            "price": "£1399.00",
+            "img": "forforstaerkere/parasound_classic7100.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 16,
+            "name": "Halop 3",
+            "category": "Preamps",
+            "producer": "Parasound",
+            "price": "£1499.00",
+            "img": "forforstaerkere/parasound_halop3.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 17,
+            "name": "VCS wall",
+            "category": "Speakers",
+            "producer": "Boesendorfer",
+            "price": "£599.00",
+            "img": "hojtalere/boesendorfer_vcs_wall.gif",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 18,
+            "name": "M5",
+            "category": "Speakers",
+            "producer": "Epos",
+            "price": "£599.00",
+            "img": "hojtalere/epos_m5.gif",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 19,
+            "name": "hl7es2",
+            "category": "Speakers",
+            "producer": "Harbeth",
+            "price": "£899.00",
+            "img": "hojtalere/harbeth_hl7es2.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 20,
+            "name": "Monitor 30",
+            "category": "Speakers",
+            "producer": "Harbeth",
+            "price": "£999.00",
+            "img": "hojtalere/harbeth_monitor30.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 21,
+            "name": "P3es2",
+            "category": "Speakers",
+            "producer": "Harbeth",
+            "price": "£1999.00",
+            "img": "hojtalere/harbeth_p3es2.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 22,
+            "name": "Stingray",
+            "category": "Int amplifiers",
+            "producer": "Manley",
+            "price": "£299.00",
+            "img": "int_forstaerkere/Manley_Stingray.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 23,
+            "name": "A50I",
+            "category": "Int amplifiers",
+            "producer": "Creek",
+            "price": "£399.00",
+            "img": "int_forstaerkere/creek_a50I.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 24,
+            "name": "Classic 5350SE",
+            "category": "Int amplifiers",
+            "producer": "Creek",
+            "price": "£499.00",
+            "img": "int_forstaerkere/creek_classic5350SE.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 25,
+            "name": "Destinyamp",
+            "category": "Int amplifiers",
+            "producer": "Creek",
+            "price": "£499.00",
+            "img": "int_forstaerkere/creek_destinyamp.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 26,
+            "name": "Snapper",
+            "category": "Int amplifiers",
+            "producer": "Manley",
+            "price": "£599.00",
+            "img": "int_forstaerkere/manley_snapper.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 27,
+            "name": "Debut 3",
+            "category": "Turntables",
+            "producer": "Project",
+            "price": "£1599.00",
+            "img": "pladespillere/Pro_ject_Debut_3_bl.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 28,
+            "name": "Debut 3 red",
+            "category": "Turntables",
+            "producer": "Project",
+            "price": "£1699.00",
+            "img": "pladespillere/Pro_ject_Debut_III_red_1.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 29,
+            "name": "Debut 3 yellow",
+            "category": "Turntables",
+            "producer": "Project",
+            "price": "£1699.00",
+            "img": "pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 30,
+            "name": "RPM 10",
+            "category": "Turntables",
+            "producer": "Project",
+            "price": "£1299.00",
+            "img": "pladespillere/Pro_ject_rpm10.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 31,
+            "name": "RPM 5",
+            "category": "Turntables",
+            "producer": "Project",
+            "price": "£1199.00",
+            "img": "pladespillere/Pro_ject_rpm_5.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 32,
+            "name": "JD102b",
+            "category": "Tube amplifiers",
+            "producer": "Jolida",
+            "price": "£1599.00",
+            "img": "roer_forstaerkere/jolida_JD102b.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 33,
+            "name": "JD202a",
+            "category": "Tube amplifiers",
+            "producer": "Jolida",
+            "price": "£1599.00",
+            "img": "roer_forstaerkere/jolida_JD202a.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 34,
+            "name": "JD300b",
+            "category": "Tube amplifiers",
+            "producer": "Jolida",
+            "price": "£1799.00",
+            "img": "roer_forstaerkere/jolida_JD300b.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 35,
+            "name": "JD302b",
+            "category": "Tube amplifiers",
+            "producer": "Jolida",
+            "price": "£1899.00",
+            "img": "roer_forstaerkere/jolida_JD302b.jpg",
+            "text": "Lorem ipsum"
+        },
+        {
+            "id": 36,
+            "name": "JD502b",
+            "category": "Tube amplifiers",
+            "producer": "Jolida",
+            "price": "£1999.00",
+            "img": "roer_forstaerkere/jolida_JD502b.jpg",
+            "text": "Lorem ipsum"
+        }
+    ]
+}
